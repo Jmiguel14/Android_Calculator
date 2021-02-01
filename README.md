@@ -1,4 +1,4 @@
-# :zap: Calculator in Android Studio
+# :zap: Basic Calculator in Android Studio
 
 App creada usando [Android studio](https://developer.android.com/), usando el lenguaje Java, y Gradle.
 
@@ -28,39 +28,25 @@ App creada usando [Android studio](https://developer.android.com/), usando el le
 
 ## :camera: Screenshots
 
-![todo items shown on ionic frontend and Firestore database](./tmp/ChatApp.png)
+![todo items shown on ionic frontend and Firestore database](./tmp/CalculatorByMJ.png)
 
 ## :signal_strength: Tecnologías
 
-* [Ionic/angular v5.5.2](https://ionicframework.com/)
-* [Ionic v6.12.3](https://ionicframework.com/)
-* [Firebase cloudstore v8.2.2](https://firebase.google.com/)
-* [Capacitor v2.4.6](https://capacitorjs.com/)
+* [Android Studio 4.1](https://developer.android.com/)
+* [Java 8](https://www.oracle.com/index.html)
+* [Gradle ](https://gradle.org/)
 
 ## :floppy_disk: Disposición
 
-* Correr el servidor en _localhost://8100_ ejecutando: 'ionic serve'
 * Descargar APK
-
-## :cool: Características
-
-**Formulario de registro e inicio de sesión:**
-
-* Registrarse: Click en Sing up.
-* Iniciar Sesión: Click en Sing in.
-* La contraseña del usuario sera almacenada cifrada.
-
-**Envío de mensajes:**
-* Enviar mensaje: Formulario y botón para el envío.
-* Los mensajes serán almacenados cifrados.
 
 ## 📦 APK
 
-* [Descargar](https://epnecuador-my.sharepoint.com/:u:/g/personal/miguel_jurado_epn_edu_ec/EVx0tEFp0PNOsBRwAiYJqjYB8bfGShuWYDbnU4TaQiPmXA?e=xxmlM0)
+* [Descargar](https://epnecuador-my.sharepoint.com/:u:/g/personal/miguel_jurado_epn_edu_ec/ES1OVpXJSRVGu46gSlylzBUBIBvxkRtRDUwBzvrlJfwxjA?e=ewK6U4)
 
 ## :clap: Inspiración
 
-* Proyecto inspirado en [Simon Grimm´s Web Page devdactic 'Building an Ionic Firebase Chat with Authentication'](https://devdactic.com/ionic-firebase-chat/)
+* Proyecto inspirado en [technobyte - Build a Simple Android Calculator App in 5 Steps – Full code tutorial and explanation'](https://technobyte.org/simple-calculator-app-in-android-studio/)
 
 ## :envelope: Contacto 
 
